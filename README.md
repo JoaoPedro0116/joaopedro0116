@@ -1,4 +1,5 @@
-<h1> Olá!! Eu sou o João Pedro 👋 </h1>
+<h1> Hello, I'm João Pedro ![image](https://github.com/JoaoPedro0116/joaopedro0116/assets/118128987/570734fa-9736-45a3-8e9a-b52f59c02cd1)
+</h1>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oficial.pedr001?igshihd=MzNINGNkZWQ4Mg==)
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
