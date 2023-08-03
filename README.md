@@ -1,4 +1,4 @@
-<h1> Hello, I'm João Pedro <img src="https://em-content.zobj.net/source/apple/225/alien-monster_1f47e.png" width="20px">
+<h1> Hello, I'm João Pedro <img src="https://em-content.zobj.net/source/apple/225/alien-monster_1f47e.png" width="50px">
 </h1>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oficial.pedr001?igshihd=MzNINGNkZWQ4Mg==)
